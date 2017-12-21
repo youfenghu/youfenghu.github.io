@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://youfenghu.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: https://youfenghu.github.io
+title: Hu Youfeng's Blog
+subtitle: Just a personal blog occasionally sharing something I'm interested in.
+author: Youfeng Hu
 simple_search: https://www.google.com/search
 description:
 
