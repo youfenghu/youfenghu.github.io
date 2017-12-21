@@ -4,7 +4,7 @@
   <title><![CDATA[Hu Youfeng's Blog]]></title>
   <link href="https://youfenghu.github.io/atom.xml" rel="self"/>
   <link href="https://youfenghu.github.io/"/>
-  <updated>2017-12-21T15:53:33+08:00</updated>
+  <updated>2017-12-21T16:29:43+08:00</updated>
   <id>https://youfenghu.github.io/</id>
   <author>
     <name><![CDATA[Youfeng Hu]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="https://youfenghu.github.io/blog/2017/12/21/hello-world/"/>
+    <updated>2017-12-21T16:21:05+08:00</updated>
+    <id>https://youfenghu.github.io/blog/2017/12/21/hello-world</id>
+    <content type="html"><![CDATA[<p>Welcome to my blog!
+I just created my own site.
+Just a personal blog occasionally sharing something I&rsquo;m interested in.
+And I still have lots more to work on.
+In the meantime I am really enjoying myself ~
+Hope you enjoy it as much as I have! ^_^</p>
+]]></content>
+  </entry>
   
 </feed>
